@@ -3,14 +3,15 @@
 🎓 Taking a Master's Degree in Informatics and Computing Engineering @ FEUP
 
 🖥 I'm currently working on:
-- a Flutter mobile application, a touristic wallet. 
-- an IoT system where a user can manage their smart devices (includes a React Native mobile application and an API in Flask). 
-- a multi-platform application in React for front-end and NodeJs for back-end. Consists on passport of competencies.
+- a Flutter mobile application with Firebase and payments integration
+- a metamodel for DevOps CI/CD pipelines
+- a company as Full Stack Developer!
 
 🌱 I’m currently learning:
-- React Native
-- Flutter
-- React
+- Django
+- Vue.js
+- EMF (Eclipse Modeling Framework)
+- Testing techniques and tools
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrn2001/)
 
